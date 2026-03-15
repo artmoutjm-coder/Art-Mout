@@ -425,12 +425,12 @@ a { text-decoration: none; color: inherit; }
   .hero-left {
     border-right: none;
     border-bottom: 1px solid var(--beige);
-    padding: 3rem 2rem 2.5rem;
+    padding: 2rem 1.5rem;
     justify-content: center;
   }
 
   .hero-logo-split {
-    width: min(200px, 58vw);
+    width: min(280px, 80vw);
   }
 
   .hero-right {
